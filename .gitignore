@@ -1,0 +1,7 @@
+*.log
+*.swp
+__pycache__
+.idea/*
+*env*
+*venv*
+.env
