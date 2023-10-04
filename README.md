@@ -132,20 +132,21 @@ Ready to take on the challenge? Whether you're a beginner or a math wizard, Hesa
 
 Experience an illusionary rotation in a 3D scene with this Manim video.
 
-[![3D Camera Illusion Rotation Video](images/three_d.png)](/hesabu/examples_gallery/three_d/media/videos/three_d_rotation/480p15//ThreeDCameraIllusionRotation.gif)
+<img src="/hesabu/examples_gallery/three_d/media/videos/three_d_rotation/480p15//ThreeDCameraIllusionRotation.gif" alt="3-d camera illusion">
 
 ## Example Video: Sine-curve by rotating dot around the circle
 
 
 Sine-curve by rotating dot around the circle
 
-[![Sine-curve by rotating dot around the circle](images/sine_curve.png)](/hesabu/examples_gallery/sine_curve/media/videos/sine_surve_animation/480p15/SineCurveUnitCircle.gif)
+<img src="/hesabu/examples_gallery/sine_curve/media/videos/sine_surve_animation/480p15/SineCurveUnitCircle.gif" alt="Sine curve rotating">
+
 
 ## Example Video: Moving framebox on Tex
 
 Moving framebox on laTex.
 
-[![Moving framebox](images/moving_frame.png)](/hesabu/examples_gallery/moving_frame//media/videos/moving_frame_box/480p15/moving_frame.gif)
+<img src="/hesabu/examples_gallery/moving_frame//media/videos/moving_frame_box/480p15/moving_frame.gif" alt="moving framebox">
 
 Feel free to enjoy the animations and enhance your math learning experience! 🌐✨
 
