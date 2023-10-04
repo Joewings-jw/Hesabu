@@ -114,8 +114,6 @@ Ready to take on the challenge? Whether you're a beginner or a math wizard, Hesa
 
 - 🚀 Ready for a challenge?
 
-- 🧠 Before hitting the play button on our Analysis video, we've got a brain teaser for you!
-
 - ⏳ How many seconds will it take you to spot the sneaky wrong line? 🕵️‍♂️ Maybe 5 seconds? Press play to reveal the results.
 
   - Red math frame—revealing the initial error.
@@ -124,29 +122,28 @@ Ready to take on the challenge? Whether you're a beginner or a math wizard, Hesa
 
 - Give it a shot and see how sharp your mathematical eyes are! 🔍✨
 
-[![Analysis Video](images/hesabu.png)](hesabu/showcase_analysis//media/videos/1080p60/Hesabu.mp4)
-
+<img src="hesabu/showcase_analysis/media/videos/1080p60/Hesabu.gif" alt="Hesabu quest">
 - 🎉 Did you catch them all? Join Hesabu Quest and immerse yourself in the excitement of mathematical discovery! 🧮💫
 
 ## Example Video: 3D Camera Illusion Rotation
 
 Experience an illusionary rotation in a 3D scene with this Manim video.
 
-<img src="/hesabu/examples_gallery/three_d/media/videos/three_d_rotation/480p15//ThreeDCameraIllusionRotation.gif" alt="3-d camera illusion">
+<img src="hesabu/examples_gallery/three_d/media/videos/three_d_rotation/480p15//ThreeDCameraIllusionRotation.gif" alt="3-d camera illusion">
 
 ## Example Video: Sine-curve by rotating dot around the circle
 
 
 Sine-curve by rotating dot around the circle
 
-<img src="/hesabu/examples_gallery/sine_curve/media/videos/sine_surve_animation/480p15/SineCurveUnitCircle.gif" alt="Sine curve rotating">
+<img src="hesabu/examples_gallery/sine_curve/media/videos/sine_surve_animation/480p15/SineCurveUnitCircle.gif" alt="Sine curve rotating">
 
 
 ## Example Video: Moving framebox on Tex
 
 Moving framebox on laTex.
 
-<img src="/hesabu/examples_gallery/moving_frame//media/videos/moving_frame_box/480p15/moving_frame.gif" alt="moving framebox">
+<img src="hesabu/examples_gallery/moving_frame//media/videos/moving_frame_box/480p15/moving_frame.gif" alt="moving framebox">
 
 Feel free to enjoy the animations and enhance your math learning experience! 🌐✨
 
