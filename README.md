@@ -94,19 +94,19 @@ Embark on a thrilling mathematical journey with our Hesabu Quest challenge! 🚀
 
 ✨ **What's Inside the Quest?**
 
-- **Solve math problems and have fun!** 🥳
+- **Solve math problems and have fun!** 
   
-- **Engage in brain exercises to get you thinking!** 🧠
+- **Engage in brain exercises to get you thinking!** 
   
-- **Participate in a worldwide math contest to show off your skills!** 🌍🏆
+- **Participate in a worldwide math contest to show off your skills!** 
 
-- **Secure your spot in the limelight by solving math problems within 10 seconds! From beginners to advanced, be recognized for spotting mistakes and achieve fame in record time!** 🏅💡
+- **Secure your spot in the limelight by solving math problems within 10 seconds! From beginners to advanced, be recognized for spotting mistakes and achieve fame in record time!** 
   
-- **Encounter heroes and formulas galore!** 🦸‍♂️🦹‍♀️🧮
+- **Encounter heroes and formulas galore!**
 
 Hesabu Quest is not just a challenge; it's a celebration of mathematical prowess! 🎉
 
-Ready to take on the challenge? Whether you're a beginner or a math wizard, Hesabu Quest is designed for everyone! Don't miss out—start your journey today and experience the thrill of mathematical exploration. 🌟
+Ready to take on the challenge? Whether you're a beginner or a math wizard, Hesabu Quest is designed for everyone! Don't miss out—start your journey today and experience the thrill of mathematical exploration. 
 
 ### Ready, Set, Hesabu!
 
@@ -118,9 +118,9 @@ Ready to take on the challenge? Whether you're a beginner or a math wizard, Hesa
 
 - ⏳ How many seconds will it take you to spot the sneaky wrong line? 🕵️‍♂️ Maybe 5 seconds? Press play to reveal the results.
 
-  - 🚨 Red math frame—revealing the initial error.
+  - Red math frame—revealing the initial error.
   
-  - 🔍 Yellow math frames—showcasing the consequential errors that follow!
+  - Yellow math frames—showcasing the consequential errors that follow!
 
 - Give it a shot and see how sharp your mathematical eyes are! 🔍✨
 
